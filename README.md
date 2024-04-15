@@ -1,12 +1,12 @@
 # Ablation Study for FedLPS
 
 ## Datasets
-1. MNIST
-2. CIFAR10
-3. Reddit (in data/reddit)
+- MNIST
+- CIFAR10
+- Reddit (in data/reddit/)
 
-## Running
+## Running Example
 ```
-cd /script/
-sh cifar10.sh
+cd /script/P-UCBV/
+sh cifar10_P-UCBV_dyn.sh
 ```
